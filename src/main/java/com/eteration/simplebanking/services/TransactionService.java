@@ -1,6 +1,6 @@
 package com.eteration.simplebanking.services;
 
-import com.eteration.simplebanking.controller.TransactionStatus;
+import com.eteration.simplebanking.model.TransactionStatus;
 import com.eteration.simplebanking.model.Account;
 import com.eteration.simplebanking.model.DepositTransaction;
 import com.eteration.simplebanking.model.InsufficientBalanceException;

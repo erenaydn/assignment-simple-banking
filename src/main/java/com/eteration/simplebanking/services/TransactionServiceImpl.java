@@ -1,6 +1,6 @@
 package com.eteration.simplebanking.services;
 
-import com.eteration.simplebanking.controller.TransactionStatus;
+import com.eteration.simplebanking.model.TransactionStatus;
 import com.eteration.simplebanking.model.*;
 import com.eteration.simplebanking.repositories.AccountRepository;
 import com.eteration.simplebanking.repositories.TransactionRepository;
